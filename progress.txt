@@ -1,0 +1,12 @@
+example:
+
+upload date: 10/23/24
+
+video started from 56:75 
+video ended at 64:75
+
+additional notes for team members:
+- make sure to watch out for that database!
+
+-----------------------------------------------------------
+
