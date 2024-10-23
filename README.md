@@ -6,3 +6,5 @@ message for the team members:
 - make sure to check the .txt to see where we left off
 - make the changes
 - make a pull request
+
+i will use this source code for our final github repo
