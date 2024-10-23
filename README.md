@@ -5,7 +5,8 @@
 2) make sure the fork is "To contribute to the parent project"
 3) make sure to check the progress.txt to see where we left off
 4) make the changes
-5) make a pull request
+5) commit the changes
+6) make a pull request
 
 ### how to prepare the environment
 1) make sure to "npm install" each client and server
