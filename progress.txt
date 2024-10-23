@@ -10,3 +10,15 @@ additional notes for team members:
 
 -----------------------------------------------------------
 
+10/23/24
+
+uploaded server folder
+uploaded client folder
+
+client folder is untouched, meaning there were no edits made.
+
+Start on 1:38:43
+React Node.js Connection
+
+-----------------------------------------------------------
+
